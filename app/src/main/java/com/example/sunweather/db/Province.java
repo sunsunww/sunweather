@@ -24,6 +24,6 @@ public class Province extends LitePalSupport {
         return provinceCode;
     }
     public void setProvinceCode(int provinceCode){
-        this.provinceName=provinceName;
+        this.provinceCode=provinceCode;
     }
 }
